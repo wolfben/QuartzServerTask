@@ -1,0 +1,6 @@
+1、首先命令行到程序exe目录下
+安装：QuartzServerTask.Service.exe install
+启动：QuartzServerTask.Service.exe start
+卸载：QuartzServerTask.Service.exe uninstall
+
+注意：上面exe可执行文件根据自身修改后的名称进行相应修改；如果是win7或者win10，exe可执行文件前面可能需要附带完整路径才能执行，同时需要cmd命令是管理员权限
