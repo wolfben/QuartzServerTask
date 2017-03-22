@@ -1,0 +1,6 @@
+D:\学习\QuarztDemo\QuartzServerTask\QuartzServerTask.Utility\bin\Debug\QuartzServerTask.Utility.dll
+D:\学习\QuarztDemo\QuartzServerTask\QuartzServerTask.Utility\bin\Debug\QuartzServerTask.Utility.pdb
+D:\学习\QuarztDemo\QuartzServerTask\QuartzServerTask.Utility\bin\Debug\log4net.dll
+D:\学习\QuarztDemo\QuartzServerTask\QuartzServerTask.Utility\bin\Debug\log4net.xml
+D:\学习\QuarztDemo\QuartzServerTask\QuartzServerTask.Utility\obj\Debug\QuartzServerTask.Utility.dll
+D:\学习\QuarztDemo\QuartzServerTask\QuartzServerTask.Utility\obj\Debug\QuartzServerTask.Utility.pdb

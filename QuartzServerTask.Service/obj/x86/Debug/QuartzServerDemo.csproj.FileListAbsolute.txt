@@ -1,0 +1,16 @@
+D:\工作\mydata\Quarz.NET\QuartzDemo\QuartzServerDemo\QuartzServerDemo\bin\Debug\quartz_jobs.xml
+D:\工作\mydata\Quarz.NET\QuartzDemo\QuartzServerDemo\QuartzServerDemo\bin\Debug\quartz.config
+D:\工作\mydata\Quarz.NET\QuartzDemo\QuartzServerDemo\QuartzServerDemo\bin\Debug\QuartzServerDemo.exe.config
+D:\工作\mydata\Quarz.NET\QuartzDemo\QuartzServerDemo\QuartzServerDemo\bin\Debug\QuartzServerDemo.exe
+D:\工作\mydata\Quarz.NET\QuartzDemo\QuartzServerDemo\QuartzServerDemo\bin\Debug\QuartzServerDemo.pdb
+D:\工作\mydata\Quarz.NET\QuartzDemo\QuartzServerDemo\QuartzServerDemo\bin\Debug\Common.Logging.Core.dll
+D:\工作\mydata\Quarz.NET\QuartzDemo\QuartzServerDemo\QuartzServerDemo\bin\Debug\Common.Logging.dll
+D:\工作\mydata\Quarz.NET\QuartzDemo\QuartzServerDemo\QuartzServerDemo\bin\Debug\Quartz.dll
+D:\工作\mydata\Quarz.NET\QuartzDemo\QuartzServerDemo\QuartzServerDemo\bin\Debug\Topshelf.dll
+D:\工作\mydata\Quarz.NET\QuartzDemo\QuartzServerDemo\QuartzServerDemo\bin\Debug\Topshelf.Quartz.dll
+D:\工作\mydata\Quarz.NET\QuartzDemo\QuartzServerDemo\QuartzServerDemo\obj\x86\Debug\QuartzServerDemo.exe
+D:\工作\mydata\Quarz.NET\QuartzDemo\QuartzServerDemo\QuartzServerDemo\obj\x86\Debug\QuartzServerDemo.pdb
+D:\学习\QuarztDemo\QuartzDemo\QuartzServerDemo\QuartzServerDemo\bin\Debug\QuartzServerDemo.exe.config
+D:\学习\QuarztDemo\QuartzDemo\QuartzServerDemo\QuartzServerDemo\obj\x86\Debug\QuartzServerDemo.exe
+D:\学习\QuarztDemo\QuartzDemo\QuartzServerDemo\QuartzServerDemo\obj\x86\Debug\QuartzServerDemo.pdb
+D:\学习\QuarztDemo\QuartzDemo\QuartzServerDemo\QuartzServerDemo\bin\Debug\QuartzServerTask.exe.config

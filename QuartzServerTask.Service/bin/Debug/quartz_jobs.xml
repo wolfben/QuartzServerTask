@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- This file contains job definitions in schema version 2.0 format -->
+
+<job-scheduling-data xmlns="http://quartznet.sourceforge.net/JobSchedulingData" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0">
+
+  <processing-directives>
+    <overwrite-existing-data>true</overwrite-existing-data>
+  </processing-directives>
+
+  <schedule>
+    <!--具体任务-->
+    <job>
+      <!--(必填) 任务名称-->
+      <name>Job1</name>
+      <!--任务分组-->
+      <group>Job1Group</group>
+      <!--任务描述-->
+      <description>Job1Demo</description>
+      <!--(必填) 任务类型，格式：实现IJob接口的完整命名空间类名,程序集名称（注意是程序集）-->
+      <job-type>QuartzServerTask.Jobs.Job1,QuartzServerTask.Jobs</job-type>
+      <durable>true</durable>
+      <recover>false</recover>
+    </job>
+
+    <!--任务对应的触发器，trigger 中必须且只能定义一种触发器类型(calendar-interval、simple、cron)-->
+    <trigger>
+      <!--简单任务的触发器，可以调度用于重复执行的任务-->
+      <simple>
+        <!--(必填) 触发器名称-->
+        <name>Job1Trigger</name>
+        <!--触发器分组-->
+        <group>Job1Group</group>
+        <!--触发器描述-->
+        <description>Simple trigger to simply fire sample job</description>
+        <!--要调度的任务名称，该job-name必须和对应job节点中的name完全相同(必填)-->
+        <job-name>Job1</job-name>
+        <!--调度任务(job)所属分组，该值必须和job中的group完全相同(必填)-->
+        <job-group>Job1Group</job-group>
+        <misfire-instruction>SmartPolicy</misfire-instruction>
+        <!--(必填) 任务执行次数，如:<repeat-count>-1</repeat-count>表示无限次执行-->
+        <repeat-count>-1</repeat-count>
+        <!--(必填) 任务触发间隔(毫秒)-->
+        <repeat-interval>1000</repeat-interval>
+      </simple>
+    </trigger>
+  </schedule>
+</job-scheduling-data>
